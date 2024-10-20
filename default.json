@@ -6,7 +6,7 @@
       "openbutton": 0,
       "hideicon": true,
       "hideiconafter": 120,
-      "iconurl": "https://i.imgur.com/LKCyuT3.png",
+      "iconurl": "https://i.imgur.com/RrKypAE.png",
       "disableicontext": false,
       "iconposition": 0,
       "icontextcolor": 0,
@@ -17,27 +17,27 @@
     "tabs": [
       {
         "layout": 1,
-        "buttontext": "Willkommen",
-        "imageurl": "https://i.imgur.com/lW0jO59.jpeg",
+        "buttontext": "Welcome",
+        "imageurl": "https://i.imgur.com/l2wW9E8.jpeg",
         "content": [
           {
-            "title": "Neuigkeiten",
-            "text": "<TextStyle.LightBlue>Mod-Updates:</>\n\n- Mod-Ladereihenfolge optimiert. Dies sollte die Performance verbessern, und führt hoffentlich zu weniger Abstürzen!\n\n- Super Spyglass Plus ist immer noch verbuggt. Manche Buffs werden doppelt angezeigt - andere gar nicht. Wir warten auf ein Update!\n\n- Beim Start des Spiels öffnet sich jetzt dieses Fenster. Du kannst es erneut öffnen, indem du Viereck gedrückt hältst.\n\n- Über Lily's Tweaker kannst du jetzt bei jedem Login automatisch bestimmte Befehle ausführen. Eine Liste empfohlener Befehle bekommst du über den entsprechenden Link.\n\nScanne den folgenden QR-Code mit deinem Handy, um unserem Discord-Server beizutreten:"
+            "title": "",
+            "text": ""
           }
         ]
       },
       {
         "layout": 2,
-        "buttontext": "Settings",
-        "imageurl": "https://i.imgur.com/mGt3cAF.png",
+        "buttontext": "Updates",
+        "imageurl": "https://i.imgur.com/qidSY1T.jpeg",
         "content": [
           {
-            "title": "INI settings:",
-            "text": "<TextStyle.LightBlue>Ini Header:</>\n\n\\[WBUI2]\n\n\nINI-Options:\n\nJsonURL=\"url\"  -  default: \"https://raw.githubusercontent.com/DC-Modding/WBUI2-Wiki/main/default.json\"\n\nYou have to host the file as \"raw\" somewhere and enter the URL to it wrapped in \" \". You can use github (linked below). After uploading the file you'll find a button called \"raw\". click the button and copy the URL. Or use any other hosting site which offers linking to a raw JSON output.\n\nFor a more detailed instruction checkout the Wiki linked down below.\n\n\nYou can trigger an update of the JSON via console command:\ncheat scriptcommand WBUI2 update"
+            "title": "Ark News:",
+            "text": "<TextStyle.LightBlue>Premium Mod Sale:</>\n\nNoch bis zum 24. Oktober sind Ark Premium Mods im Sale!\nWer von euch also mit dem Gedanken spielt, Bob's Tall Tales zu kaufen, sollte das jetzt tun!\nAußerdem sind diverse Map-Mods im Angebot. Falls wir also eine dieser Maps in Zukunft spielen wollen, wäre jetzt ein guter Zeitpunkt, zuzugreifen!\nWeitere coole Premium Mods wären z.B. der zum Pyromane.\n\n<TextStyle.LightBlue>Serverkosten:</>\n\nDieser Server ist noch bis zum <RichColor Color=\\"0,1,0,1\\">22.11.2024</> bezahlt! Danach sind wieder <RichColor Color=\\"1,0,0,1\\">52,09 €</> fällig. Wer sich beteiligen möchte, darf gerne Platte anhauen."
           },
           {
-            "title": "JSON settings:",
-            "text": "OpenButton  -  0/1/2/3/4/5/6, default:0, 0=F1, 1=F2, 2=F3, 3=F4, 4=F5, 5=Delete, 6=Home  -  Determines the button the player needs to press to open the UI.\n\nHideIcon  -  true/false, default: false  -  If true the Icon in the bottom left corner vanishes after some time.\n\nHideIconAfter  -  integer, default: 60  -  Determines after how many seconds the Icon vanishes.\n\nIconURL  -  \"URL\", default: \"https://i.imgur.com/OZ6xOjY.png\"  -  You can upload a custom image somewhere (e.g. imgur, link down below) and it will be used as the Icon in the bottom left.\n\nDisableIconText  -  true/false, default:false  -  If true the text \"F1 for Info\" will not be displayed.\n\nIconPosition  -  0/1/2/3, default:0, 0=Top Left, 1=Top Right, 2=Bottom Right, 3=Bottom Left  -  Set the position of the Icon.\n\nIconTextColor  -  0/1/2/3/4/5/6/7/8, default:0, 0=Light Blue, 1=Red, 2=Green, 3=Blue, 4=Yellow, 5=Orange, 6=Violet, 7=Black, 8=White  -  Sets the color of the \"F1 For Info\" text.\n\nOpenOnStart  -  true/false, default: true  -  If true the UI will open automatically after the player spawned.\n\nOpenOnStartOnlyNewPlayers  -  true/false, default: true  -  If true the UI only opens automatically the first time the player spawns on the server.\n\nUpdateInterval  -  integer, default: 12  -  This value determines the time in hours the mod automatically pulls the JSON from the URL to update settings.\n\nGENERAL INFORMATION:\n\n\nFor the rest of the settings pls checkout the Wiki or the example JSON linked down below.\n\nIn order to pass the JSON-validation you have to use \"*backslash*n\" without a space to generate newlines. although the mod should handle regular newlines just fine.\n\nSpecial characters like \" have to be escaped with a *backslash*\n\nYou can trigger an update of the JSON via console command: \"cheat scriptcommand WBUI2 update\"\n\nBe careful with the file size of the images. The user have to download the images."
+            "title": "Mod Updates:",
+            "text": "<TextStyle.LightBlue>Mod-Updates:</>\n\n- Mod-Ladereihenfolge optimiert. Dies sollte die Performance verbessern, und führt hoffentlich zu weniger Abstürzen!\n\n- Super Spyglass Plus ist immer noch verbuggt. Manche Buffs werden doppelt angezeigt - andere gar nicht. Wir warten auf ein Update!\n\n- Beim Start des Spiels öffnet sich jetzt dieses Fenster. Du kannst es erneut öffnen, indem du Viereck gedrückt hältst.\n\n- Über Lily's Tweaker kannst du jetzt bei jedem Login automatisch bestimmte Befehle ausführen - zum Beispiel den Nebel ausschalten und die Performance verbessern. Das Menü kannst du öffnen, indem du doppelt die Dreieck-Taste drückst.\nDie gängigsten Kommandos sind bereits voreingestellt. Eine Liste empfohlener Befehle bekommst du über den entsprechenden Link."
           }
         ]
       }
@@ -48,12 +48,16 @@
         "url": "https://discord.gg/q5RdagU2"
       },
       {
-        "text": "Shiny! Dinos",
+        "text": "Alle Shiny! Dinos",
         "url": "https://legacy.curseforge.com/ark-survival-ascended/mods/shiny-ascended/pages/shiny-ascended/shiny-abilities"
       },
       {
-        "text": "Tweaker Commands",
+        "text": "Lily's Tweaker Commands",
         "url": "https://www.curseforge.com/ark-survival-ascended/mods/lilys-tweaker"
+      },
+      {
+        "text": "Liste der Gene Traits",
+        "url": "https://ark.wiki.gg/wiki/Traits"
       }
     ],
     "version": 2
