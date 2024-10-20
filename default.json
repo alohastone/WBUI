@@ -6,7 +6,7 @@
       "openbutton": 0,
       "hideicon": true,
       "hideiconafter": 120,
-      "iconurl": "https://i.imgur.com/OZ6xOjY.png",
+      "iconurl": "https://i.imgur.com/LKCyuT3.png",
       "disableicontext": false,
       "iconposition": 0,
       "icontextcolor": 0,
@@ -18,11 +18,11 @@
       {
         "layout": 1,
         "buttontext": " Willkommen",
-        "imageurl": "https://i.imgur.com/SqXVDBQ.jpeg",
+        "imageurl": "https://i.imgur.com/lW0jO59.jpeg",
         "content": [
           {
             "title": "Neuigkeiten",
-            "text": "Mod-Updates:\nYou can expect bugs!\n\n\nThis UI is unedited. Pls contact an Admin.\n\nAre you an Admin?\nPls click on the buttons down below to get to the Wiki page for a setup guide. For Support pls join the discord\n\nYou can find a simple explanation in the settings tab."
+            "text": "<TextStyle.LightBlue>Mod-Updates:</>\n\n- Mod-Ladereihenfolge optimiert.\nDies führt hoffentlich zu weniger Abstürzen!\n\n- Super Spyglass Plus ist immer noch verbuggt.\n\n- Beim Start des Spiels öffnet sich jetzt dieses Fenster. Unten findest du die wichtigsten Links :)\n\n- Über Lily's Tweaker kannst du jetzt automatisch Kommandos ausführen."
           }
         ]
       },
