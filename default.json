@@ -4,14 +4,14 @@
     "settings":
     {
       "openbutton": 0,
-      "hideicon": false,
-      "hideiconafter": 60,
+      "hideicon": true,
+      "hideiconafter": 120,
       "iconurl": "https://i.imgur.com/OZ6xOjY.png",
       "disableicontext": false,
       "iconposition": 0,
       "icontextcolor": 0,
       "openonstart": true,
-      "openonstartonlynewplayers": true,
+      "openonstartonlynewplayers": false,
       "updateinterval": 12
     },
     "tabs": [
@@ -44,32 +44,16 @@
     ],
     "links": [
       {
-        "text": "Discord",
+        "text": "AWF Discord",
         "url": "https://discord.gg/q5RdagU2"
       },
       {
-        "text": "Wiki",
-        "url": "https://wiki.wbui2.de"
+        "text": "Shiny! Dinos",
+        "url": "https://legacy.curseforge.com/ark-survival-ascended/mods/shiny-ascended/pages/shiny-ascended/shiny-abilities"
       },
       {
-        "text": "CurseForge",
-        "url": "https://www.curseforge.com/ark-survival-ascended/mods/wbui2"
-      },
-      {
-        "text": "JSON-Validator",
-        "url": "https://jsonlint.com"
-      },
-      {
-        "text": "Github",
-        "url": "https://github.com"
-      },
-      {
-        "text": "Imgur",
-        "url": "https://imgur.com"
-      },
-      {
-        "text": "Example JSON",
-        "url": "https://raw.githubusercontent.com/DC-Modding/WBUI2-Wiki/main/example.json"
+        "text": "Tweaker Commands",
+        "url": "https://www.curseforge.com/ark-survival-ascended/mods/lilys-tweaker"
       }
     ],
     "version": 2
