@@ -22,7 +22,7 @@
         "content": [
           {
             "title": "Neuigkeiten",
-            "text": "<TextStyle.LightBlue>Mod-Updates:</>\n\n- Mod-Ladereihenfolge optimiert.\nDies sollte die Performance verbessern,\nund führt hoffentlich zu weniger Abstürzen!\n\n- Super Spyglass Plus ist immer noch verbuggt. Manche Buffs\n werden doppelt angezeigt - andere gar nicht.\n\n- Beim Start des Spiels öffnet sich jetzt dieses Fenster.\nDu kannst es erneut öffnen, indem du Viereck gedrückt hältst.\nUnten findest du die wichtigsten Links.\n\n- Über Lily's Tweaker kannst du jetzt automatisch Kommandos ausführen.\nEine Liste empfohlener Kommandos bekommst du über den Link unten.\n\n- Scanne den QR-Code unten links mit deinem Handy, um unserem Discord-Server beizutreten!"
+            "text": "<TextStyle.LightBlue>Mod-Updates:</>\n\n- Mod-Ladereihenfolge optimiert.\nDies sollte die Performance verbessern, und führt hoffentlich zu weniger Abstürzen!\n\n- Super Spyglass Plus ist immer noch verbuggt. Manche Buffs werden\ndoppelt angezeigt - andere gar nicht. Wir warten auf ein Update!\n\n- Beim Start des Spiels öffnet sich jetzt dieses Fenster. Du kannst es erneut öffnen, indem du Viereck gedrückt hältst.\nUnten findest du die wichtigsten Links.\n\n- Über Lily's Tweaker kannst du jetzt automatisch Kommandos ausführen.\nEine Liste empfohlener Kommandos bekommst du über den Link unten.\n\n- Scanne den QR-Code unten links mit deinem Handy, um unserem Discord-Server beizutreten!"
           }
         ]
       },
