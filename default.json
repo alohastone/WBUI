@@ -22,7 +22,7 @@
         "content": [
           {
             "title": "",
-            "text": ""
+            "text": "\n\n\n\nTest!"
           }
         ]
       },
@@ -33,30 +33,30 @@
         "content": [
           {
             "title": "Ark News:",
-            "text": "<TextStyle.LightBlue>Premium Mod Sale:</>\n\nNoch bis zum 24. Oktober sind Ark Premium Mods im Sale!\nWer von euch also mit dem Gedanken spielt, Bob's Tall Tales zu kaufen, sollte das jetzt tun!\nAußerdem sind diverse Map-Mods im Angebot. Falls wir also eine dieser Maps in Zukunft spielen wollen, wäre jetzt ein guter Zeitpunkt, zuzugreifen!\nWeitere coole Premium Mods wären z.B. der zum Pyromane.\n\n<TextStyle.LightBlue>Serverkosten:</>\n\nDieser Server ist noch bis zum <RichColor Color=\"0,1,0,1\">22 Nov 2024</> bezahlt! Danach sind wieder <RichColor Color=\"1,0,0,1\">52,09 €</> fällig. Wer sich beteiligen möchte, darf gerne Platte anhauen."
+            "text": "<TextStyle.LightBlue>Premium Mod Sale</>\n\nNoch bis zum 24. Oktober sind Ark Premium Mods im Sale!\n\nWer von euch also mit dem Gedanken spielt, Bob's Tall Tales o.ä. zu kaufen, sollte das jetzt tun!\n\nAußerdem sind diverse Map-Mods im Angebot. Falls wir also eine dieser Maps in Zukunft spielen wollen, wäre jetzt ein guter Zeitpunkt, zuzugreifen!\n\nWeitere coole Premium Mods wären z.B. der zum Pyromane.\n\n<TextStyle.LightBlue>Serverkosten/>\n\nDieser Server ist noch bis zum <RichColor Color=\"0,1,0,1\">22 Nov 2024</> bezahlt! Danach sind wieder <RichColor Color=\"1,0,0,1\">52,09 €</> fällig. Wer sich beteiligen möchte, darf gerne Platte anhauen."
           },
           {
             "title": "Mod Updates:",
-            "text": "<TextStyle.LightBlue>Mod-Updates:</>\n\n- Mod-Ladereihenfolge optimiert. Dies sollte die Performance verbessern, und führt hoffentlich zu weniger Abstürzen!\n\n- Super Spyglass Plus ist immer noch verbuggt. Manche Buffs werden doppelt angezeigt - andere gar nicht. Wir warten auf ein Update!\n\n- Beim Start des Spiels öffnet sich jetzt dieses Fenster. Du kannst es erneut öffnen, indem du Viereck gedrückt hältst.\n\n- Über Lily's Tweaker kannst du jetzt bei jedem Login automatisch bestimmte Befehle ausführen - zum Beispiel den Nebel ausschalten und die Performance verbessern. Das Menü kannst du öffnen, indem du doppelt die Dreieck-Taste drückst.\nDie gängigsten Kommandos sind bereits voreingestellt. Eine Liste empfohlener Befehle bekommst du über den entsprechenden Link."
+            "text": "<TextStyle.LightBlue>Mod-Updates</>\n\n- Mod-Ladereihenfolge optimiert. Dies sollte die Performance verbessern, und führt hoffentlich zu weniger Abstürzen!\n\n- Super Spyglass Plus ist immer noch verbuggt. Manche Buffs werden doppelt angezeigt - andere gar nicht.\nWir warten auf ein Update!\n\n- Beim Start des Spiels öffnet sich jetzt dieses Fenster. Du kannst es erneut öffnen, indem du Viereck gedrückt hältst.\n\n- Über Lily's Tweaker kannst du jetzt bei jedem Login automatisch bestimmte Befehle ausführen - zum Beispiel den Nebel ausschalten und die Performance verbessern.\nDas Menü kannst du öffnen, indem du doppelt die Dreieck-Taste drückst.\nDie gängigsten Kommandos sind bereits voreingestellt. Eine Liste empfohlener Befehle bekommst du über den entsprechenden Link unten."
           }
         ]
       }
     ],
     "links": [
       {
-        "text": "AWF Discord",
+        "text": "Discord",
         "url": "https://discord.gg/q5RdagU2"
       },
       {
-        "text": "Alle Shiny! Dinos",
+        "text": "Shiny! Dinos",
         "url": "https://legacy.curseforge.com/ark-survival-ascended/mods/shiny-ascended/pages/shiny-ascended/shiny-abilities"
       },
       {
-        "text": "Lily's Tweaker Commands",
+        "text": "Lily's Tweaker",
         "url": "https://www.curseforge.com/ark-survival-ascended/mods/lilys-tweaker"
       },
       {
-        "text": "Liste der Gene Traits",
+        "text": "Gene Traits",
         "url": "https://ark.wiki.gg/wiki/Traits"
       }
     ],
