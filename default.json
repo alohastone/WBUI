@@ -22,7 +22,7 @@
         "content": [
           {
             "title": "",
-            "text": "\n\n\n\nTest!"
+            "text": "\n\n Herzlich Willkommen auf unserem ARK-Server!\n\n In diesem Fenster findest du ab sofort immer die wichtigsten Neuerungen auf unserem Server. So weiß jeder immer was abgeht. Auch, wenn wir mal nicht gleichzeitig zocken.\n\n Unter \"Updates\" findest du News zum Server und den verwendeten Mods.\n\nUnten sind die wichtigsten Links zu Ark aufgeführt.\n\n Viel Spass beim Zocken!"
           }
         ]
       },
@@ -58,6 +58,10 @@
       {
         "text": "Gene Traits",
         "url": "https://ark.wiki.gg/wiki/Traits"
+      },
+      {
+        "text": "Caves",
+        "url": "https://ark.wiki.gg/wiki/Caves"
       }
     ],
     "version": 2
