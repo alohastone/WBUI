@@ -37,8 +37,8 @@
           },
           {
             "title": "Platte's Technik-Ecke",
-            "text": "<TextStyle.LightBlue>Mod-Updates</>\n\n-NEU: Potions\nAn der Rex-Brutstation gibt es ein neues Fass. In diesem kann man diverse Tränke brauen. Probier sie aus!\n\nCRAFTING-SKILL POTION:\nIn deinem Inventar kannst du jetzt die \"Crafting Skill Potion\" herstellen.\nMit dieser werden vorübergehend alle deine Skillpunkte zurückgesetzt, und komplett in \"Handwerkliches Geschick\" gepackt.\nBitte benutze diesen Trank, bevor du Sättel (oder andere Items) aus Bauplänen herstellst! Diese werden durch den Trank besser!\nSobald der Trank ausläuft, werden deine Skillpunkte automatisch wieder so verteilt, wie sie vorher waren.\n\n- Mod-Ladereihenfolge optimiert. Dies sollte die Performance verbessern, und führt hoffentlich zu weniger Abstürzen!\n\n- Super Spyglass Plus ist immer noch verbuggt. Manche Buffs werden doppelt oder gar nicht angezeigt. Insbesondere Buffs aus anderen Mods (Shiny! Dinos, Dino Tracker, etc.)\nWir warten auf ein Update!\n\n- Beim Start des Spiels öffnet sich jetzt dieses Fenster. Du kannst es erneut öffnen, indem du Viereck gedrückt hältst.\n\n- Über \"Lily's Tweaker\" kannst du jetzt bei jedem Login automatisch bestimmte Befehle ausführen lassen - zum Beispiel Nebel & Wolken ausschalten.\nDas Menü kannst du öffnen, indem du doppelt die Dreieck-Taste drückst. Die gängigsten Befehle sind bereits voreingestellt. Mit einem Haken bei \"Hide Buff\" kannst du das Zahnrad-Icon im Spiel ausblenden. Eine Liste empfohlener Befehle bekommst du über den \"Lily's Tweaker\" Link unten."
-          }
+            "text": ""
+            }
         ]
       }
     ],
