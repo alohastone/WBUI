@@ -11,10 +11,25 @@
       "iconposition": 0,
       "icontextcolor": 0,
       "openonstart": true,
-      "openonstartonlynewplayers": true,
+      "openonstartonlynewplayers": false,
       "updateinterval": 12
     },
     "tabs": [
+      {
+        "layout": 2,
+        "buttontext": "Neuigkeiten",
+        "imageurl": "https://i.imgur.com/u1pXzqX.jpeg",
+        "content": [
+          {
+            "title": "Server News",
+            "text": "<TextStyle.LightBlue>Serverkosten</>\n\nDieser Server ist noch bis zum <RichColor Color=\"0,1,0,1\">22. November 2024</> bezahlt. Danach sind wieder <RichColor Color=\"1,0,0,1\">52,09 €</> (für 90 Tage) fällig. Wer sich beteiligen möchte, darf gerne Platte anhauen.\n\n<TextStyle.LightBlue>Discord</>\n\nSobald \"Shiny! Dinos\" auf der Map spawnen, erhaltet ihr im dazugehörigen Discord-Channel eine Nachricht mit den Koordinaten."
+          },
+          {
+            "title": "Platte's Technik-Ecke",
+            "text": "<TextStyle.LightBlue>Mod-Updates</>\n\nAutomated Ark\nIn naher Zukunft soll Automated Ark verschwinden.\n\nPOTIONS\nAn der Rex-Brutstation gibt es ein neues Fass. In diesem kann man diverse Tränke brauen. Probier sie aus!\n\nCRAFTING-SKILL POTION:\nIn deinem Inventar kannst du jetzt die \"Crafting Skill Potion\" herstellen.\nMit dieser werden vorübergehend alle deine Skillpunkte zurückgesetzt, und komplett in \"Handwerkliches Geschick\" gepackt.\nBitte benutze diesen Trank, bevor du Sättel (oder andere Items) aus Bauplänen herstellst! Diese werden durch den Trank besser!\nSobald der Trank ausläuft, werden deine Skillpunkte automatisch wieder so verteilt, wie sie vorher waren."
+            }
+        ]
+      },
       {
         "layout": 1,
         "buttontext": "Welcome",
@@ -24,21 +39,6 @@
             "title": "",
             "text": "\nWar eigentlich ganz schön, bevor du da warst..\n\nIn diesem Fenster findest du ab sofort immer die wichtigsten Neuerungen auf unserem Server.\nSo weiß jeder immer was abgeht. Auch, wenn wir mal nicht gleichzeitig zocken.\n\nUnter \"Updates\" findest du News zu Ark und den hier verwendeten Mods.\n\nAm unteren Rand dieses Fensters sind die wichtigsten Links zu Ark aufgeführt.\n(Kamma selber nachlesen, und muss nicht immer dem Platte auf den Sack gehen.)\n\nDieses Fenster kannst du jederzeit wieder öffnen, indem du Viereck gedrückt hältst, und \"WBUI2\" öffnest.\n\n<TextStyle.LightBlue>In diesem Sinne: Viel Spass beim Zocken!</>\n(Und komm' doch nächstes mal wieder wenn du weniger Zeit hast!)"
           }
-        ]
-      },
-      {
-        "layout": 2,
-        "buttontext": "Updates",
-        "imageurl": "https://i.imgur.com/qidSY1T.jpeg",
-        "content": [
-          {
-            "title": "Ark News",
-            "text": "<TextStyle.LightBlue>Serverkosten</>\n\nDieser Server ist noch bis zum <RichColor Color=\"0,1,0,1\">22. November 2024</> bezahlt. Danach sind wieder <RichColor Color=\"1,0,0,1\">52,09 €</> (für 90 Tage) fällig. Wer sich beteiligen möchte, darf gerne Platte anhauen."
-          },
-          {
-            "title": "Platte's Technik-Ecke",
-            "text": "<TextStyle.LightBlue>Mod-Updates</>\n\n-NEU: Potions\nAn der Rex-Brutstation gibt es ein neues Fass. In diesem kann man diverse Tränke brauen. Probier sie aus!\n\nCRAFTING-SKILL POTION:\nIn deinem Inventar kannst du jetzt die \"Crafting Skill Potion\" herstellen.\nMit dieser werden vorübergehend alle deine Skillpunkte zurückgesetzt, und komplett in \"Handwerkliches Geschick\" gepackt.\nBitte benutze diesen Trank, bevor du Sättel (oder andere Items) aus Bauplänen herstellst! Diese werden durch den Trank besser!\nSobald der Trank ausläuft, werden deine Skillpunkte automatisch wieder so verteilt, wie sie vorher waren."
-            }
         ]
       }
     ],
