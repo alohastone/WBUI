@@ -40,7 +40,30 @@
             "text": "\nWar eigentlich ganz schön, bevor du da warst..\n\nIn diesem Fenster findest du ab sofort immer die wichtigsten Neuerungen auf unserem Server.\nSo weiß jeder immer was abgeht. Auch, wenn wir mal nicht gleichzeitig zocken.\n\nUnter \"Updates\" findest du News zu Ark und den hier verwendeten Mods.\n\nAm unteren Rand dieses Fensters sind die wichtigsten Links zu Ark aufgeführt.\n(Kamma selber nachlesen, und muss nicht immer dem Platte auf den Sack gehen.)\n\nDieses Fenster kannst du jederzeit wieder öffnen, indem du Viereck gedrückt hältst, und \"WBUI2\" öffnest.\n\n<TextStyle.LightBlue>In diesem Sinne: Viel Spass beim Zocken!</>\n(Und komm' doch nächstes mal wieder wenn du weniger Zeit hast!)"
           }
         ]
-      }
+      },
+      {
+                "layout": 4,
+                "buttontext": "Breeding",
+                "imageurl": "https://i.imgur.com/byDvDPA.jpeg",
+                "content": [
+                    {
+                        "title": "Rexe",
+                        "text": "This text goes into the top left box"
+                    },
+                    {
+                        "title": "Megatherien",
+                        "text": "This text goes into the top right box"
+                    },
+                    {
+                        "title": "Therizinos",
+                        "text": "This text goes into the bottom left box"
+                    },
+                    {
+                        "title": "Yutys",
+                        "text": "This text goes into the bottom right box"
+                    }
+                ]
+            }
     ],
     "links": [
       {
