@@ -47,20 +47,20 @@
                 "imageurl": "https://i.imgur.com/byDvDPA.jpeg",
                 "content": [
                     {
-                        "title": "Rexe",
-                        "text": "This text goes into the top left box"
+                        "title": "Rexe (270+)",
+                        "text": "Base: 54 H / 33 S / 41 W / 53 M / 45 F / 43 O\n\nMUT: 22 Total (H30 / M14)\n\nGene: tba"
                     },
                     {
-                        "title": "Megatherien",
-                        "text": "Base: 64 H / 40 S / 50 W / 50 M / 43 F / 46 O\nMutations: 2 (H4 / M0)"
+                        "title": "Megatherien (294+)",
+                        "text": "Base: 64 H / 40 S / 50 W / 50 M / 43 F / 46 O\n\nMUT: 2 Total (H4 / M0)\n\nGene: mutable stamina, mutable health"
                     },
                     {
                         "title": "Therizinos",
-                        "text": "This text goes into the bottom left box"
+                        "text": "tba"
                     },
                     {
                         "title": "Yutys",
-                        "text": "This text goes into the bottom right box"
+                        "text": "tba"
                     }
                 ]
             }
