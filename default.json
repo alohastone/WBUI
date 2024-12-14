@@ -59,8 +59,8 @@
                         "text": "Base: 49 H / 53 S / 54 W / 50 M / 34 F / 40 O\n\nMUT: 3 Total (H2 / M4)\n\nGene: tba"
                     },
                     {
-                        "title": "Yutys",
-                        "text": "tba"
+                        "title": "Online players",
+                        "text": "{playerlist}"
                     }
                 ]
             }
