@@ -22,11 +22,11 @@
         "content": [
           {
             "title": "Server News",
-            "text": "<TextStyle.LightBlue>Login und Admin-Funktionen</>\n\n- Ihr müsst für diesen Server beim Login kein Passwort mehr angeben! Es gibt jetzt eine \"Exclusive Join List\", auf der nur wir drei stehen. Daher kein Passwort mehr erforderlich.\n\n- Durch die Registrierung im Discord seid ihr außerdem automatisch beim joinen als Admin eingeloggt. Ihr braucht kein \"enablecheats\" mehr einzugeben, bevor ihr Admin-Befehle ausführt.\n\n<TextStyle.LightBlue>Serverkosten</>\n\nDieser Server ist noch bis zum <RichColor Color=\"0,1,0,1\">20. Januar 2025</> bezahlt. Danach sind wieder <RichColor Color=\"1,0,0,1\">52,09 €</> (für 90 Tage) fällig. Wer sich beteiligen möchte, darf gerne Platte anhauen.\n\n<TextStyle.LightBlue>Discord</>\n\n- Sobald \"Shiny! Dinos\" auf der Map spawnen, erhaltet ihr im dazugehörigen Discord-Channel ab sofort eine Nachricht mit den entsprechenden Koordinaten.\n\n- Im Channel \"Mod-Updates\" könnt ihr nachlesen, welche Mods ein Update bekommen haben, und was genau aktualisiert wurde."
+            "text": "<TextStyle.LightBlue>NEU: Ragnarok!</>\n\n- Frischer Wind im AWF-Server!\nPlatte hat unsere Island-Map gesichert, und den Server auf Ragnarok umgestellt. Vorerst fangen wir bei null an. Ein Mitnehmen der Dinos wird fummelig, und erst in Angriff genommen, wenn es auf die Bosskämpfe zugeht.\n\n<TextStyle.LightBlue>Serverkosten</>\n\nDieser Server ist noch bis zum <RichColor Color=\"0,1,0,1\">17. September 2026</> bezahlt. Danach sind wieder <RichColor Color=\"1,0,0,1\">52,09 €</> (für 90 Tage) fällig. Wer sich beteiligen möchte, darf gerne Platte anhauen.\n\n<TextStyle.LightBlue>Discord</>\n\n"
           },
           {
             "title": "Platte's Technik-Ecke",
-            "text": "<TextStyle.LightBlue>Mod-Updates</>\n\n- Automated Ark\nIn naher Zukunft möchte ich \"Automated Ark\" deaktivieren. Viele Strukturen (bspw. der Chemielabortisch) funktionieren nicht (mehr) richtig.Und (fast) alles was Automated Ark kann, können unsere anderen Mods auch (Ausnahme: Samen für Seltene Blume, Pilze, und Baumharz).\nDie meisten Strukturen habe ich bereits ersetzt. Bitte checkt in euren Häusern / Basen, ob ihr noch Automated Ark Strukturen nutzt, und entfernt, grindet, und ersetzt diese!\nSobald ich den Mod deinstalliere, verschwinden alle AA-Strukturen unwiederbringlich - inklusive Inhalt!\n\n- Neue \"Reusables\"\nDer Mod, der für wiederverwendbare Items zuständig war, wurde durch einen gleichwertigen ersetzt. Ihr müsst eure wiederverwendbaren Fackeln, Bolas, Enterhaken etc. bitte neu herstelle. Dafür jetzt auch mit dabei: wiederverwendbare Gasmaske & Sauerstofftank!\n\n- POTIONS\nAn der Rex-Brutstation gibt es ein neues Fass. In diesem kann man diverse Tränke brauen, die dich und / oder deinen Dino heilen, beim zähmen helfen, etc. Probier sie aus!\n\n- CRAFTING-SKILL POTION:\nIn deinem Inventar kannst du jetzt die \"Crafting Skill Potion\" herstellen. Mit dieser werden vorübergehend alle deine Skillpunkte zurückgesetzt, und komplett in \"Handwerkliches Geschick\" gepackt.\nBitte benutze diesen Trank, bevor du Sättel (oder andere Items) aus Bauplänen herstellst! Diese werden durch den Trank besser!\nSobald der Trank ausläuft, werden deine Skillpunkte automatisch wieder so verteilt, wie sie vorher waren."
+            "text": "<TextStyle.LightBlue>Mod-Updates</>\n\n- Der Dwarven Builders Mod wird nicht mehr gepflegt, und wurde in einen Custom Cosmetic Mod umgewandelt. Ich habe ihn daher auf dem Server deinstalliert - und das gleiche könnt ihr in eurem Spiel auch tun.\n Wenn ihr die Strukturen weiter nutzen möchtet, müsst ihr den gleichnamigen Custom Cosmetic Mod In-Game bei Mods suchen und händisch installieren.\n\n- Neu dazu gekommen sind außerdem zwei weitere Custom Cosmetic Mosd: Shanty Structure Set und Western Decor Skins. Sofern ihr diese Strukturuen-Skins sehen (und nutzen) möchtet, müsst ihr auch diese zwei Mods In-Game installieren."
             }
         ]
       },
@@ -71,20 +71,24 @@
         "url": "https://discord.gg/q5RdagU2"
       },
       {
-        "text": "Shiny! Dinos",
+        "text": "Shiny!",
         "url": "https://legacy.curseforge.com/ark-survival-ascended/mods/shiny-ascended/pages/shiny-ascended/shiny-abilities"
       },
       {
-        "text": "Lily's Tweaker",
-        "url": "https://www.curseforge.com/ark-survival-ascended/mods/lilys-tweaker"
+        "text": "Map",
+        "url": "https://wikily.gg/ark-survival-ascended/maps/ragnarok/"
       },
       {
-        "text": "Gene Traits",
+        "text": "Gene",
         "url": "https://ark.wiki.gg/wiki/Traits"
       },
       {
         "text": "Caves",
         "url": "https://ark.wiki.gg/wiki/Caves"
+      },
+      {
+        "text": "Dododex",
+        "url": "https://www.dododex.com"
       }
     ],
     "version": 2
