@@ -1,0 +1,94 @@
+{
+  "WBUI2": {
+    "settings": {
+      "openbutton": 0,
+      "hideicon": true,
+      "hideiconafter": 120,
+      "iconurl": "https://i.imgur.com/RrKypAE.png",
+      "disableicontext": true,
+      "iconposition": 0,
+      "icontextcolor": 0,
+      "openonstart": true,
+      "openonstartonlynewplayers": false,
+      "updateinterval": 12
+    },
+    "tabs": [
+      {
+        "layout": 2,
+        "buttontext": "Neuigkeiten",
+        "imageurl": "https://i.imgur.com/4rBcAhK.jpeg",
+        "content": [
+          {
+            "title": "Server News",
+            "text": "<TextStyle.LightBlue>NEU: Ragnarok</>\nFrischer Wind auf dem AWF-Server!\n\n- Platte hat unsere \"The Island\" Map gesichert, und den Server auf Ragnarok umgestellt. Da sich das Mitnehmen von Charakteren, Dinos, und Ressourcen wahrscheinlich umständlich gestalten - und mit zusätzlichen Kosten verbunden sein wird, fangen wir vorerst bei null an.\n\n\"Back to the roots\" quasi! (Fast) alle Mods und Einstellungen sind gleich geblieben. Die \"Quality of Life\" bleibt also dieselbe. Nur das Farmen bleibt uns nicht erspart.\n\nDen Hustle, Bossdinos zu züchten, will ich mir aber möglichst ersparen. Sobald es darauf zugeht, setze ich mich noch einmal mit der \"Dino-Migration\" auseinander.\n\n<TextStyle.LightBlue>Serverkosten</>\n\nDieser Server ist noch bis zum <RichColor Color=\"0,1,0,1\">15. Dezember 2026</> bezahlt. Danach sind wieder <RichColor Color=\"1,0,0,1\">52,09 €</> (für 90 Tage) fällig. Wer sich beteiligen möchte: <RichColor Color=\"0,0,1,1\">mitderplatte@pm.me</> (PayPal).\n\n<TextStyle.LightBlue>Links</>\n\nUnten am Rand gibt es ein paar neue Links. Unter anderem eine Map von Ragnarok, auf der ihr alle Ressourcen-Hotspots, Caves, etc. sehen könnt. Außerdem ein Link zu Dododex.\n\nUnsere Multiplikatoren (könnt ihr auf der Seite / in der App unter \"Einstellungen\" einstellen, damit die Berechnungen stimmen), lauten wie folgt: Zähmgeschwindigkeit: 3, Ei-Schlüpfgeschwindigkeit: 12, Baby-Wachstum: 50, und XP-Multiplikator: 2. Der Rest ist Standard."
+          },
+          {
+            "title": "Platte's Technik-Ecke",
+            "text": "<TextStyle.LightBlue>Mod-Updates</>\n\n- Der \"Dwarven Builders Mod\" wird nicht mehr gepflegt, und wurde in einen sogenannten \"Custom Cosmetic Mod\" umgewandelt. Das sind Mods, die man nicht auf dem SERVER, sondern nur lokal im SPIEL installieren muss. Der Mod macht dann nichts anderes, als bereits im Spiel vorhandenen Strukturen ein neues Aussehen (\"Skin\") zu verpassen.\n\nDiese \"Custom Cosmetics\" gibt es für Strukturen, Ausrüstung, Sättel, etc.\n\nVorteil: der Serverbetreiber (ICH!) muss nicht jeden Mod auf dem Server installieren, den die Spieler nutzen wollen. Jeder Spieler kann selbst \"Custom Cosmetics\" installieren und nutzen.\nNachteil: Mods die wir alle nutzen (sprich: sehen) möchten, muss jeder für sich im \"Mod-Store\" suchen, installieren, und ggfs. updaten. Ihr werdet dann nicht mehr beim Serverbeitritt benachrichtigt, dass der / die entsprechenden Mods ein Update bekommen haben. Schaut also ab und zu selbst nach, welche eurer \"Custom Cosmetics\" vielleicht aktualisiert werden müssen.\n\nWenn ihr weiter mit den Strukturen bauen wollt, sucht einfach nach \"Dwarven\", und installiert euch den \"Dwarven Builders - Custom Cosmetic Mod\".\n\n- Neu dazu gekommen sind außerdem zwei weitere Custom Cosmetic Mods: \"Shanty Structure Set\" und \"Western Decor Skins\". Sofern ihr diese Strukturen-Skins sehen (und nutzen) möchtet, müsst ihr auch diese zwei Mods In-Game installieren.\n\n- Den \"JVH Garden Decor\" Mod habe ich testweise installiert. Dieser bringt noch mehr \"Blümchen und so\" mit. Wie bei solchen Mods leider üblich, ist der mit knapp 1GB recht groß. Ihr müsst (oder musstet) euch da also einmal durchquälen. Sorry dafür!"
+          }
+        ]
+      },
+      {
+        "layout": 1,
+        "buttontext": "Welcome",
+        "imageurl": "https://i.imgur.com/l2wW9E8.jpeg",
+        "content": [
+          {
+            "title": "",
+            "text": "\nWar eigentlich ganz schön, bevor du da warst..\n\nIn diesem Fenster findest du ab sofort immer die wichtigsten Neuerungen auf unserem Server.\nSo weiß jeder immer was abgeht. Auch, wenn wir mal nicht gleichzeitig zocken.\n\nUnter \"Updates\" findest du News zu Ark und den hier verwendeten Mods.\n\nAm unteren Rand dieses Fensters sind die wichtigsten Links zu Ark aufgeführt.\n(Kamma selber nachlesen, und muss nicht immer dem Platte auf den Sack gehen.)\n\nDieses Fenster kannst du jederzeit wieder öffnen, indem du Viereck gedrückt hältst, und \"WBUI2\" öffnest.\n\n<TextStyle.LightBlue>In diesem Sinne: Viel Spass beim Zocken!</>\n(Und komm' doch nächstes mal wieder wenn du weniger Zeit hast!)"
+          }
+        ]
+      },
+      {
+        "layout": 4,
+        "buttontext": "Breeding",
+        "imageurl": "https://i.imgur.com/byDvDPA.jpeg",
+        "content": [
+          {
+            "title": "Rexe (324+)",
+            "text": "Base: 54 H / 33 S / 41 W / 53 M / 45 F / 43 O\n\nMUT: 27 Total (H34 / M20)\n\nGene: tba"
+          },
+          {
+            "title": "Megatherien (314+)",
+            "text": "Base: 64 H / 40 S / 50 W / 50 M / 43 F / 46 O\n\nMUT: 10 Total (H8 / M12)\n\nGene: mutable stamina, mutable health"
+          },
+          {
+            "title": "Therizinos (287+)",
+            "text": "Base: 49 H / 53 S / 54 W / 50 M / 34 F / 40 O\n\nMUT: 3 Total (H2 / M4)\n\nGene: tba"
+          },
+          {
+            "title": "Online players",
+            "text": "{playerlist}"
+          }
+        ]
+      }
+    ],
+    "links": [
+      {
+        "text": "Discord",
+        "url": "https://discord.gg/q5RdagU2"
+      },
+      {
+        "text": "Shiny!",
+        "url": "https://legacy.curseforge.com/ark-survival-ascended/mods/shiny-ascended/pages/shiny-ascended/shiny-abilities"
+      },
+      {
+        "text": "Map",
+        "url": "https://wikily.gg/ark-survival-ascended/maps/ragnarok/"
+      },
+      {
+        "text": "Gene",
+        "url": "https://ark.wiki.gg/wiki/Traits"
+      },
+      {
+        "text": "Caves",
+        "url": "https://ark.wiki.gg/wiki/Caves"
+      },
+      {
+        "text": "Dododex",
+        "url": "https://www.dododex.com"
+      }
+    ],
+    "version": 2
+  }
+}
